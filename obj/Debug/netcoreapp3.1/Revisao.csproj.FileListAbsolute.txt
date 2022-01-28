@@ -1,0 +1,13 @@
+C:\Users\Pedro Petrin\Documents\Programação\DIO e Grupo GFT\Revisao\bin\Debug\netcoreapp3.1\Revisao.exe
+C:\Users\Pedro Petrin\Documents\Programação\DIO e Grupo GFT\Revisao\bin\Debug\netcoreapp3.1\Revisao.deps.json
+C:\Users\Pedro Petrin\Documents\Programação\DIO e Grupo GFT\Revisao\bin\Debug\netcoreapp3.1\Revisao.runtimeconfig.json
+C:\Users\Pedro Petrin\Documents\Programação\DIO e Grupo GFT\Revisao\bin\Debug\netcoreapp3.1\Revisao.runtimeconfig.dev.json
+C:\Users\Pedro Petrin\Documents\Programação\DIO e Grupo GFT\Revisao\bin\Debug\netcoreapp3.1\Revisao.dll
+C:\Users\Pedro Petrin\Documents\Programação\DIO e Grupo GFT\Revisao\bin\Debug\netcoreapp3.1\Revisao.pdb
+C:\Users\Pedro Petrin\Documents\Programação\DIO e Grupo GFT\Revisao\obj\Debug\netcoreapp3.1\Revisao.csprojAssemblyReference.cache
+C:\Users\Pedro Petrin\Documents\Programação\DIO e Grupo GFT\Revisao\obj\Debug\netcoreapp3.1\Revisao.AssemblyInfoInputs.cache
+C:\Users\Pedro Petrin\Documents\Programação\DIO e Grupo GFT\Revisao\obj\Debug\netcoreapp3.1\Revisao.AssemblyInfo.cs
+C:\Users\Pedro Petrin\Documents\Programação\DIO e Grupo GFT\Revisao\obj\Debug\netcoreapp3.1\Revisao.csproj.CoreCompileInputs.cache
+C:\Users\Pedro Petrin\Documents\Programação\DIO e Grupo GFT\Revisao\obj\Debug\netcoreapp3.1\Revisao.dll
+C:\Users\Pedro Petrin\Documents\Programação\DIO e Grupo GFT\Revisao\obj\Debug\netcoreapp3.1\Revisao.pdb
+C:\Users\Pedro Petrin\Documents\Programação\DIO e Grupo GFT\Revisao\obj\Debug\netcoreapp3.1\Revisao.genruntimeconfig.cache
